@@ -1,2 +1,3 @@
 # hello-world
 It starts...
+A blind, passionate dive into the future.
